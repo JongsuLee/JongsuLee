@@ -5,7 +5,7 @@
 ### About me
 
 :four_leaf_clover: I have basic programming skills in each part, like Java, Python and SQL in Backend part.<br/>
-<span>&#09;&#09;&#09;&#09;&#09;&#09;</span> like Javascript,HTML, CSS, React, Next.js in Frontend part<br/>
+<span>&#09; &#09; &#09; &#09; &#09; &#09;</span> like Javascript,HTML, CSS, React, Next.js in Frontend part<br/>
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
 📫 How to reach me: leaguematter@gmail.com <br/>
 
