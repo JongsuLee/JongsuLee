@@ -1,12 +1,13 @@
-# JongsuLee
+# Willy
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### I am Willy, BackEnd Developer from :kr: Seoul, Republic of Korea 
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
+:four_leaf_clover: I have basic programming skills in each part, like Java, Python and SQL in Backend part.<br/>
+<span></span> like Javascript,HTML, CSS, React, Next.js in Frontend part
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
-📫 How to reach me: myEmail@gmail.com <br/>
+📫 How to reach me: leaguematter@gmail.com <br/>
 
 ### Interest
 
