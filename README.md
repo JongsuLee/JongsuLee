@@ -6,7 +6,7 @@
 
 :four_leaf_clover: I have basic programming skills in each part, like Java, Python and SQL in Backend part.<br/>
 <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> like Javascript,HTML, CSS, React, Next.js in Frontend part<br/>
-:pencil: Sometimes I write articles on [[Tstory](https://medium.com/)](https://dev-will-lee.tistory.com/) <br/> <!-- Add a links-->
+:pencil: Sometimes I write articles on [Tstory](https://dev-will-lee.tistory.com/) <br/> <!-- Add a links-->
 📫 How to reach me: leaguematter@naver.com <br/>
 
 ### Interest
