@@ -10,7 +10,7 @@
 ### Latest Projects
 <!-- [Git_merge_practice](https://github.com/JongsuLee/merge_3.2_before_fast_forward) -->
 [팔도보부상: 제철 농산물 정보 공유 플랫폼](https://github.com/JongsuLee/PB-PaldoBobusang)<br>
-[위베리: 스마트팜(딸기) 웹 커뮤니티](https://github.com/orgs/StoryBerry/repositories)<br>
+[위베리: 스마트팜(딸기) 웹 커뮤니티](https://github.com/StoryBerry/WeBerry)<br>
 [과일가격크롤러: 판별 과일 가격 웹 크롤러](https://github.com/JongsuLee/crawlingByFruitImage)
 ### Languages
 <p>
