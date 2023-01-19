@@ -1,23 +1,17 @@
 # Willy
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Willy, BackEnd Developer from :kr: Seoul, Republic of Korea 
-
-### About me
-
-:four_leaf_clover: I have basic programming skills in each part, like Java, Python and SQL in Backend part.<br/>
-<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> like Javascript,HTML, CSS, React, Next.js in Frontend part<br/>
-:pencil: Sometimes I write articles on [Tstory](https://dev-will-lee.tistory.com/) <br/> <!-- Add a links-->
-📫 How to reach me: leaguematter@naver.com <br/>
+<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;📫 How to reach me: leaguematter@naver.com <br></span>
 
 ### Interest
-
-Web development <br/>
-Animation with pure CSS & P5.js <br/>
+#### Web development: Binding datas between servers<br/>
+#### Automation: RPA and Data Crawling <br/>
 
 ### Latest Projects
 <!-- [Git_merge_practice](https://github.com/JongsuLee/merge_3.2_before_fast_forward) -->
 [팔도보부상: 제철 농산물 정보 공유 플랫폼](https://github.com/JongsuLee/PB-PaldoBobusang)<br>
-[위베리: 스마트팜(딸기) 웹 커뮤니티](https://github.com/orgs/StoryBerry/repositories)
+[위베리: 스마트팜(딸기) 웹 커뮤니티](https://github.com/orgs/StoryBerry/repositories)<br>
+[과일가격크롤러: 판별 과일 가격 웹 크롤러](https://github.com/JongsuLee/crawlingByFruitImage)
 ### Languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
